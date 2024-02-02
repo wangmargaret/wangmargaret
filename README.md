@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Margaret
+👋 Hi, I’m Margaret! I'm a CS + Economics double major at UMN.
 
 <!---
 wangmargaret/wangmargaret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
